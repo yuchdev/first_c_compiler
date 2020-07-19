@@ -1,8 +1,8 @@
 # PDP-11/UNIX C Compiler by Dennis Richie (1972)
 
-The earliest versions of the very first C compiler, known to be written by the Dennis Richie himself.
+The earliest versions of the very first C compiler, known to be written by Dennis Richie himself.
 
-Directory **last1120c** is a saved state of the compiler just before the migration from the PDP-11/20, which did not have multiply or divide instructions, but instead a provided a separate, optional unit that did these operations (and also shifts) by storing the operands into memory locations.
+Directory **last1120c** is a saved state of the compiler just before the migration from the PDP-11/20, which did not have multiply or divide instructions, but instead provided a separate, optional unit that did these operations (and also shifts) by storing the operands into memory locations.
 
 The second directory, **prestruct-c** is a copy of the compiler just before adding structures functionality. 
 
